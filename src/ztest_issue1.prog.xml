@@ -5,7 +5,7 @@
    <PROGDIR>
     <NAME>ZTEST_ISSUE1</NAME>
     <SUBC>M</SUBC>
-    <RLOAD>D</RLOAD>
+    <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
@@ -14,7 +14,7 @@
      <HEADER>
       <PROGRAM>ZTEST_ISSUE1</PROGRAM>
       <SCREEN>0100</SCREEN>
-      <LANGUAGE>D</LANGUAGE>
+      <LANGUAGE>E</LANGUAGE>
       <DESCRIPT>test dynpro</DESCRIPT>
       <TYPE>N</TYPE>
       <NEXTSCREEN>0100</NEXTSCREEN>
@@ -104,6 +104,18 @@
      <LENGTH>21</LENGTH>
     </item>
    </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>R</ID>
+       <ENTRY>program ztest_issue1</ENTRY>
+       <LENGTH>70</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
