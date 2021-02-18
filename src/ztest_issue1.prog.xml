@@ -88,13 +88,6 @@
        <LINE>* MODULE USER_COMMAND_0100.</LINE>
       </RPY_DYFLOW>
      </FLOW_LOGIC>
-     <SPACES>
-      <item>0</item>
-      <item>0</item>
-      <item>0</item>
-      <item>0</item>
-      <item>0</item>
-     </SPACES>
     </item>
    </DYNPROS>
    <TPOOL>
